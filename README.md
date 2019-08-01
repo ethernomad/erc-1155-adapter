@@ -1,6 +1,6 @@
 # EIP-1155 Adapter
 
-**[Read this contract in master branch](blob/master/contracts/ERC1155Adapter.sol)**
+**[Read this contract in master branch](https://github.com/pelith/erc-1155-adapter/blob/master/contracts/ERC1155Adapter.sol)**
 
 This is an EIP-1155 wrapper contract of its reference implementation by Enjin ([https://github.com/enjin/erc-1155](https://github.com/enjin/erc-1155)). It is designed to be backward-compatible with existing interfaces, making it easier to adopt to token ecosystems.
 
